@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sport_records SYSTEM "sport.dtd">
+<sport_records>
+<record>
+<sport>CALCIO (CHAMPIONS LEAGUE)</sport>
+<evento>BAYERN MONACO-PSG</evento>
+<luogo>Monaco, GERMANIA</luogo>
+<data>07/03/2023</data>
+<ora>21:00</ora>
+</record>
+<record>
+<sport>CALCIO (CHAMPIONS LEAGUE)</sport>
+<evento>REAL MADRID-LIVERPOOL</evento>
+<luogo>Madrid, SPAGNA</luogo>
+<data>08/03/2023</data>
+<ora>21:00</ora>
+</record>
+<record>
+<sport>CALCIO (SERIE A)</sport>
+<evento>MILAN-ATALANTA</evento>
+<luogo>Milano, ITALIA</luogo>
+<data>20/03/2023</data>
+<ora>20:45</ora>
+</record>
+<record>
+<sport>CALCIO (SERIE A)</sport>
+<evento>JUVENTUS-INTER</evento>
+<luogo>Torino, ITALIA</luogo>
+<data>20/03/2023</data>
+<ora>18:00</ora>
+</record>
+<record>
+<sport>CALCIO (SERIE A)</sport>
+<evento>ROMA-LAZIO</evento>
+<luogo>Roma, ITALIA</luogo>
+<data>20/03/2023</data>
+<ora>18:00</ora>
+</record>
+<record>
+<sport>CALCIO (SERIE A)</sport>
+<evento>NAPOLI-FIORENTINA</evento>
+<luogo>Napoli, ITALIA</luogo>
+<data>19/03/2023</data>
+<ora>20:45</ora>
+</record>
+<record>
+<sport>BASKET (NBA)</sport>
+<evento>MILWAUKEE BUCKS-BOSTON CELTICS</evento>
+<luogo>Milwaukee, Wisconsin, USA</luogo>
+<data>21/03/2023</data>
+<ora>2:30</ora>
+</record>
+<record>
+<sport>BASKET (NBA)</sport>
+<evento>MIAMI HEAT-CHICAGO BULLS</evento>
+<luogo>Miami, Florida, USA</luogo>
+<data>21/03/2023</data>
+<ora>1:30</ora>
+</record>
+<record>
+<sport>BASKET (NBA)</sport>
+<evento>DENVER NUGGETS-LOS ANGELES LAKERS</evento>
+<luogo>Denver, Colorado, USA</luogo>
+<data>21/03/2023</data>
+<ora>00:30</ora>
+</record>
+<record>
+<sport>BASKET (NBA)</sport>
+<evento>MEMPHIS GRIZZLIES-GOLDEN STATE WARRIORS</evento>
+<luogo>Memphis, Tennessee, USA</luogo>
+<data>21/03/2023</data>
+<ora>23:30</ora>
+</record>
+<record>
+<sport>TENNIS (AUSTRALIAN OPEN)</sport>
+<evento>DJOKOVIC-NADAL</evento>
+<luogo>Melbourne, AUSTRALIA</luogo>
+<data>16/03/2023</data>
+<ora>14:00</ora>
+</record>
+<record>
+<sport>TENNIS (AUSTRALIAN OPEN)</sport>
+<evento>ALCARAZ-MEDVEDEV</evento>
+<luogo>Melbourne, AUSTRALIA</luogo>
+<data>16/03/2023</data>
+<ora>12:00</ora>
+</record>
+<record>
+<sport>TENNIS (AUSTRALIAN OPEN)</sport>
+<evento>SINNER-TSITSIPAS</evento>
+<luogo>Melbourne, AUSTRALIA</luogo>
+<data>16/03/2023</data>
+<ora>10:00</ora>
+</record>
+<record>
+<sport>TENNIS (AUSTRALIAN OPEN)</sport>
+<evento>RUUNE-RUBLEV</evento>
+<luogo>Melbourne, AUSTRALIA</luogo>
+<data>16/03/2023</data>
+<ora>8:00</ora>
+</record>
+</sport_records>

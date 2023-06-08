@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT sport_records (record+)>
+<!ELEMENT record (sport, evento, luogo, data, ora)>
+<!ELEMENT sport (#PCDATA)>
+<!ELEMENT evento (#PCDATA)>
+<!ELEMENT luogo (#PCDATA)>
+<!ELEMENT data (#PCDATA)>
+<!ELEMENT ora (#PCDATA)>
