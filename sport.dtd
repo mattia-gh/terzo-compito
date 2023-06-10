@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!ELEMENT sport_records (record+)>
-<!ELEMENT record (sport, evento, luogo, data, ora)>
+<!ELEMENT record (sport, evento, luogo, data, ora, quota1, quotaX*, quota2)>
 <!ELEMENT sport (#PCDATA)>
 <!ELEMENT evento (#PCDATA)>
 <!ELEMENT luogo (#PCDATA)>
 <!ELEMENT data (#PCDATA)>
 <!ELEMENT ora (#PCDATA)>
+<!ELEMENT quota1 (#PCDATA)>
+<!ELEMENT quotaX (#PCDATA)>
+<!ELEMENT quota2 (#PCDATA)>

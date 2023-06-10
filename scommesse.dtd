@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT scommesse_records (record*)>
+<!ELEMENT record (utente, ev_segn_qt*, vincita)>
+<!ELEMENT utente (#PCDATA)>
+<!ELEMENT ev_segn_qt (evento_segno, quota)>
+<!ELEMENT evento_segno (#PCDATA)>
+<!ELEMENT quota (#PCDATA)>
+<!ELEMENT vincita (#PCDATA)>

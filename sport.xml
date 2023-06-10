@@ -7,6 +7,9 @@
 <luogo>Monaco, GERMANIA</luogo>
 <data>07/03/2023</data>
 <ora>21:00</ora>
+<quota1>1.90</quota1>
+<quotaX>3.10</quotaX>
+<quota2>2.20</quota2>
 </record>
 <record>
 <sport>CALCIO (CHAMPIONS LEAGUE)</sport>
@@ -14,6 +17,9 @@
 <luogo>Madrid, SPAGNA</luogo>
 <data>08/03/2023</data>
 <ora>21:00</ora>
+<quota1>1.75</quota1>
+<quotaX>4.20</quotaX>
+<quota2>2.40</quota2>
 </record>
 <record>
 <sport>CALCIO (SERIE A)</sport>
@@ -21,6 +27,9 @@
 <luogo>Milano, ITALIA</luogo>
 <data>20/03/2023</data>
 <ora>20:45</ora>
+<quota1>1.55</quota1>
+<quotaX>2.00</quotaX>
+<quota2>2.50</quota2>
 </record>
 <record>
 <sport>CALCIO (SERIE A)</sport>
@@ -28,6 +37,9 @@
 <luogo>Torino, ITALIA</luogo>
 <data>20/03/2023</data>
 <ora>18:00</ora>
+<quota1>1.90</quota1>
+<quotaX>3.10</quotaX>
+<quota2>1.80</quota2>
 </record>
 <record>
 <sport>CALCIO (SERIE A)</sport>
@@ -35,6 +47,9 @@
 <luogo>Roma, ITALIA</luogo>
 <data>20/03/2023</data>
 <ora>18:00</ora>
+<quota1>2.00</quota1>
+<quotaX>3.00</quotaX>
+<quota2>2.10</quota2>
 </record>
 <record>
 <sport>CALCIO (SERIE A)</sport>
@@ -42,6 +57,9 @@
 <luogo>Napoli, ITALIA</luogo>
 <data>19/03/2023</data>
 <ora>20:45</ora>
+<quota1>1.60</quota1>
+<quotaX>3.50</quotaX>
+<quota2>2.70</quota2>
 </record>
 <record>
 <sport>BASKET (NBA)</sport>
@@ -49,6 +67,9 @@
 <luogo>Milwaukee, Wisconsin, USA</luogo>
 <data>21/03/2023</data>
 <ora>2:30</ora>
+<quota1>1.90</quota1>
+<quotaX>7.00</quotaX>
+<quota2>2.20</quota2>
 </record>
 <record>
 <sport>BASKET (NBA)</sport>
@@ -56,6 +77,9 @@
 <luogo>Miami, Florida, USA</luogo>
 <data>21/03/2023</data>
 <ora>1:30</ora>
+<quota1>1.70</quota1>
+<quotaX>7.10</quotaX>
+<quota2>2.90</quota2>
 </record>
 <record>
 <sport>BASKET (NBA)</sport>
@@ -63,6 +87,9 @@
 <luogo>Denver, Colorado, USA</luogo>
 <data>21/03/2023</data>
 <ora>00:30</ora>
+<quota1>1.90</quota1>
+<quotaX>8.10</quotaX>
+<quota2>2.20</quota2>
 </record>
 <record>
 <sport>BASKET (NBA)</sport>
@@ -70,6 +97,9 @@
 <luogo>Memphis, Tennessee, USA</luogo>
 <data>21/03/2023</data>
 <ora>23:30</ora>
+<quota1>2.40</quota1>
+<quotaX>7.10</quotaX>
+<quota2>1.75</quota2>
 </record>
 <record>
 <sport>TENNIS (AUSTRALIAN OPEN)</sport>
@@ -77,6 +107,8 @@
 <luogo>Melbourne, AUSTRALIA</luogo>
 <data>16/03/2023</data>
 <ora>14:00</ora>
+<quota1>1.90</quota1>
+<quota2>2.00</quota2>
 </record>
 <record>
 <sport>TENNIS (AUSTRALIAN OPEN)</sport>
@@ -84,6 +116,8 @@
 <luogo>Melbourne, AUSTRALIA</luogo>
 <data>16/03/2023</data>
 <ora>12:00</ora>
+<quota1>1.70</quota1>
+<quota2>2.20</quota2>
 </record>
 <record>
 <sport>TENNIS (AUSTRALIAN OPEN)</sport>
@@ -91,6 +125,8 @@
 <luogo>Melbourne, AUSTRALIA</luogo>
 <data>16/03/2023</data>
 <ora>10:00</ora>
+<quota1>1.90</quota1>
+<quota2>2.00</quota2>
 </record>
 <record>
 <sport>TENNIS (AUSTRALIAN OPEN)</sport>
@@ -98,5 +134,7 @@
 <luogo>Melbourne, AUSTRALIA</luogo>
 <data>16/03/2023</data>
 <ora>8:00</ora>
+<quota1>1.90</quota1>
+<quota2>2.10</quota2>
 </record>
 </sport_records>
